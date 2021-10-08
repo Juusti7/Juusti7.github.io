@@ -36,10 +36,9 @@ a:hover{
 .banner-area{
 	position: relative;
 	background-image:url(IMG_6883.JPG);
-	width: 100%;
+	width: 100vw;
 	height: 100vh;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
-	min-width:833;
 }
