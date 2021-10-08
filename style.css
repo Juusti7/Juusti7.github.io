@@ -41,4 +41,5 @@ a:hover{
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
+	min-width:833;
 }
